@@ -28,13 +28,13 @@
         "delete": "Изтрий",
         "upload": "Качване",
         "registration": "Регистрация",
-        "login": "Влизане",
+        "login": "Вписване",
         "signUp": "Регистрирай се",
         "message": "Съобщение",
         "edit": "Промени"
     },
     "home": {
-        "hi": "Здравейте {{fullName}}"
+        "hi": "Здравейте, {{fullName}}"
     },
     "login": {
         "signIn": "Впиши се",
@@ -58,12 +58,11 @@
             "regDate": "Дата на регистрация",
             "saveToothStatus": "Успешно запазен зъбен статус.",
             "address": "Адрес",
-            "phone":"Телефон"
+            "phone": "Телефон"
         },
         "manipulations": {},
         "finances": {
-            "finances" : "Финанси"
-            
+            "finances": "Финанси"
         }
     }
 }
