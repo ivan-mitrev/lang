@@ -40,5 +40,17 @@
         "email": "Имейл адрес",
         "password": "Парола",
         "DoNotHaveAccount": "Нямате акаунт?"
+    },
+    "search": {
+        "searchPatient": "Търсене на пациент",
+        "searchParam": "Име, фамилия или ЕГН на пациент",
+        "egn": "ЕГН",
+        "fname": "Име",
+        "lname": "Фамилия"
+    },
+    "profile": {
+        "info": {
+            "toothStatus": "Зъбен статус"
+        }
     }
 }
