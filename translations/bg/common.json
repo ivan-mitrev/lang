@@ -29,7 +29,9 @@
         "upload": "Качване",
         "registration": "Регистрация",
         "login": "Влизане",
-        "signUp": "Регистрирай се"
+        "signUp": "Регистрирай се",
+        "message": "Съобщение",
+        "edit": "Промени"
     },
     "home": {
         "hi": "Здравейте {{fullName}}"
@@ -50,7 +52,18 @@
     },
     "profile": {
         "info": {
-            "toothStatus": "Зъбен статус"
+            "toothStatus": "Зъбен статус",
+            "fullName": "Име",
+            "email": "Имейл",
+            "regDate": "Дата на регистрация",
+            "saveToothStatus": "Успешно запазен зъбен статус.",
+            "address": "Адрес",
+            "phone":"Телефон"
+        },
+        "manipulations": {},
+        "finances": {
+            "finances" : "Финанси"
+            
         }
     }
 }

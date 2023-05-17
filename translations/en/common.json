@@ -29,7 +29,9 @@
         "upload": "Upload",
         "registration": "Registration",
         "login": "Login",
-        "signUp": "Sign Up"
+        "signUp": "Sign Up",
+        "message": "Message",
+        "edit": "Edit"
     },
     "home": {
         "hi": "Hello, {{fullName}}"
@@ -37,8 +39,29 @@
     "login": {
         "signIn": "Sign In",
         "disc": "Please enter your email and password!",
-        "email": "Email Address",
+        "email": "Email",
         "password": "Password",
         "DoNotHaveAccount": "Don't have an account?"
+    },
+    "search": {
+        "searchPatient": "Search Patient",
+        "searchParam": "Name, Last Name, or Personal ID of the patient",
+        "egn": "Personal ID",
+        "fname": "First Name",
+        "lname": "Last Name"
+    },
+    "profile": {
+        "info": {
+            "toothStatus": "Tooth Status",
+            "fullName": "Full Name",
+            "email": "Email",
+            "regDate": "Registration Date",
+            "saveToothStatus": "Tooth status successfully saved.",
+            "address": "Address"
+        },
+        "manipulations": {},
+        "finances": {
+            "finances": "Finances"
+        }
     }
 }
