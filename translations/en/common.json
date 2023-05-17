@@ -1,8 +1,44 @@
 {
-    "welcome": {
-        "title": "Welcome to {{framework}}"
-    },
-    "home": {
-        "hi": "Welcome {{fullName}}"
-    }
+"mainMenu": {
+"home": "Home",
+"search": "Search",
+"newPatient": "New Patient",
+"calendar": "Calendar",
+"invoices": "Invoices",
+"services": "Services"
+},
+"dropDownMenu": {
+"profile": "Profile",
+"settings": "Settings",
+"logout": "Logout"
+},
+"secondMenu": {
+"patient": "Patient",
+"manipulations": "Manipulations",
+"finances": "Finances",
+"invoices": "Invoices",
+"photos": "Photos",
+"calendar": "Calendar",
+"documents": "Documents"
+},
+"button": {
+"back": "Back",
+"save": "Save",
+"close": "Close",
+"delete": "Delete",
+"upload": "Upload",
+"registration": "Registration",
+"login": "Login",
+"signUp": "Sign Up"
+},
+"home": {
+"hi": "Hello, {{fullName}}"
+},
+"login": {
+"signIn": "Sign In",
+"disc": "Please enter your email and password!",
+"email": "Email Address",
+"password": "Password",
+"DoNotHaveAccount": "Don't have an account?"
+}
 }
