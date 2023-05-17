@@ -1,0 +1,44 @@
+{
+    "mainMenu": {
+        "home": "Начало",
+        "search": "Търсене",
+        "newPatient": "Нов пациент",
+        "calendar": "Календар",
+        "invoices": "Фактури",
+        "services": "Услуги"
+    },
+    "dropDownMenu": {
+        "profile": "Профил",
+        "settings": "Настройки",
+        "logout": "Излизане"
+    },
+    "secondMenu": {
+        "patient": "Пациент",
+        "manipulations": "Манипулации",
+        "finances": "Финанси",
+        "invoices": "Фактури",
+        "photos": "Снимки",
+        "calendar": "Календар",
+        "documents": "Документи"
+    },
+    "button": {
+        "back": "Назад",
+        "save": "Запази",
+        "close": "Затвори",
+        "delete": "Изтрий",
+        "upload": "Качване",
+        "registration": "Регистрация",
+        "login": "Влизане",
+        "signUp": "Регистрирай се"
+    },
+    "home": {
+        "hi": "Здравейте {{fullName}}"
+    },
+    "login": {
+        "signIn": "Впиши се",
+        "disc": "Моля, въведете своя имейл и парола!",
+        "email": "Имейл адрес",
+        "password": "Парола",
+        "DoNotHaveAccount": "Нямате акаунт?"
+    }
+}
