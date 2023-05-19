@@ -31,7 +31,8 @@
         "login": "Login",
         "signUp": "Sign Up",
         "message": "Message",
-        "edit": "Edit"
+        "edit": "Edit",
+        "subscribe": "Subscribe"
     },
     "home": {
         "hi": "Hello, {{fullName}}"
