@@ -43,6 +43,7 @@
         "email": "Имейл адрес",
         "password": "Парола",
         "DoNotHaveAccount": "Нямате акаунт?"
+        
     },
     "search": {
         "searchPatient": "Търсене на пациент",
