@@ -42,7 +42,24 @@
         "disc": "Please enter your email and password!",
         "email": "Email",
         "password": "Password",
-        "DoNotHaveAccount": "Don't have an account?"
+        "DoNotHaveAccount": "Don't have an account?",
+        "wrongpasswordOrEmail" : "Wrong Password or Email!"
+    },
+    "register" : {
+        "doctorInfo" : "Dentist info",
+        "name" : "Name",
+        "surname" : "Surname",
+        "lastName" : "Last name",
+        "email" : "Email",
+        "password" : "Password",
+        "repeatPass" : "Repeat password",
+        "companyInfo" : "Company Info",
+        "companyName" : "Company Name",
+        "companyAddress" : "Address",
+        "website" : "Website",
+        "accountablePerson" : "Accountable Person",
+        "uic" : "UIC",
+        "accept" : "Accept terms and conditions"
     },
     "search": {
         "searchPatient": "Search Patient",
