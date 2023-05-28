@@ -42,8 +42,24 @@
         "disc": "Моля, въведете своя имейл и парола!",
         "email": "Имейл адрес",
         "password": "Парола",
-        "DoNotHaveAccount": "Нямате акаунт?"
-        
+        "DoNotHaveAccount": "Нямате акаунт?",
+        "wrongpasswordOrEmail" : "Грешна парола или имейл!"
+    },
+    "register" : {
+        "doctorInfo" : "Информация за лвкар",
+        "name" : "Име",
+        "surname" : "Презиме",
+        "lastName" : "Фамилия",
+        "email" : "Имейл",
+        "password" : "Парола",
+        "repeatPass" : "Повтори парола",
+        "companyInfo" : "Информация за фирма",
+        "companyName" : "Име на фирмата",
+        "companyAddress" : "Адрес на фирмата",
+        "website" : "Уебсайт на фирмата",
+        "accountablePerson" : "МОЛ",
+        "uic" : "ЕИК",
+        "accept" : "Съгласен съм с общите условия"
     },
     "search": {
         "searchPatient": "Търсене на пациент",
