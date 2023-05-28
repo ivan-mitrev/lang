@@ -61,6 +61,16 @@
         "uic" : "UIC",
         "accept" : "Accept terms and conditions"
     },
+    "prices" : {
+        "dentalUltimate" : "Dental Ultimate",
+        "dentalPro" : "Dental Pro",
+        "youGetThemAll" : "You get them all without limits. Suitable for large clinics.",
+        "forSmallPractices" : "For small practices with two or three doctors, it is best.",
+        "299bgn/year" : "299BGN/year",
+        "29BGN/month" : "29.99BGN/month",
+        "199BGN/year" : "199BGN/year",
+        "19BGN/month" : "19.99BGN/month"
+    },
     "search": {
         "searchPatient": "Search Patient",
         "searchParam": "Name, Last Name, or Personal ID of the patient",
