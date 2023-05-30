@@ -43,33 +43,33 @@
         "email": "Email",
         "password": "Password",
         "DoNotHaveAccount": "Don't have an account?",
-        "wrongpasswordOrEmail" : "Wrong Password or Email!"
+        "wrongpasswordOrEmail": "Wrong Password or Email!"
     },
-    "register" : {
-        "doctorInfo" : "Dentist info",
-        "name" : "Name",
-        "surname" : "Surname",
-        "lastName" : "Last name",
-        "email" : "Email",
-        "password" : "Password",
-        "repeatPass" : "Repeat password",
-        "companyInfo" : "Company Info",
-        "companyName" : "Company Name",
-        "companyAddress" : "Address",
-        "website" : "Website",
-        "accountablePerson" : "Accountable Person",
-        "uic" : "UIC",
-        "accept" : "Accept terms and conditions"
+    "register": {
+        "doctorInfo": "Dentist info",
+        "name": "Name",
+        "surname": "Surname",
+        "lastName": "Last name",
+        "email": "Email",
+        "password": "Password",
+        "repeatPass": "Repeat password",
+        "companyInfo": "Company Info",
+        "companyName": "Company Name",
+        "companyAddress": "Address",
+        "website": "Website",
+        "accountablePerson": "Accountable Person",
+        "uic": "UIC",
+        "accept": "Accept terms and conditions"
     },
-    "prices" : {
-        "dentalUltimate" : "Dental Ultimate",
-        "dentalPro" : "Dental Pro",
-        "youGetThemAll" : "You get them all without limits. Suitable for large clinics.",
-        "forSmallPractices" : "For small practices with two or three doctors, it is best.",
-        "299bgn/year" : "299BGN/year",
-        "29BGN/month" : "29.99BGN/month",
-        "199BGN/year" : "199BGN/year",
-        "19BGN/month" : "19.99BGN/month"
+    "prices": {
+        "dentalUltimate": "Dental Ultimate",
+        "dentalPro": "Dental Pro",
+        "youGetThemAll": "You get them all without limits. Suitable for large clinics.",
+        "forSmallPractices": "For small practices with two or three doctors, it is best.",
+        "299bgn/year": "299BGN/year",
+        "29BGN/month": "29.99BGN/month",
+        "199BGN/year": "199BGN/year",
+        "19BGN/month": "19.99BGN/month"
     },
     "search": {
         "searchPatient": "Search Patient",
@@ -87,7 +87,12 @@
             "saveToothStatus": "Tooth status successfully saved.",
             "address": "Address"
         },
-        "manipulations": {},
+        "manipulations": {
+            "manipulations": "Manipulations",
+            "date": "Date",
+            "description": "Description",
+            "doctor": "Doctor"
+        },
         "finances": {
             "finances": "Finances"
         }

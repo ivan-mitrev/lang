@@ -43,33 +43,33 @@
         "email": "Имейл адрес",
         "password": "Парола",
         "DoNotHaveAccount": "Нямате акаунт?",
-        "wrongpasswordOrEmail" : "Грешна парола или имейл!"
+        "wrongpasswordOrEmail": "Грешна парола или имейл!"
     },
-    "register" : {
-        "doctorInfo" : "Информация за лвкар",
-        "name" : "Име",
-        "surname" : "Презиме",
-        "lastName" : "Фамилия",
-        "email" : "Имейл",
-        "password" : "Парола",
-        "repeatPass" : "Повтори парола",
-        "companyInfo" : "Информация за фирма",
-        "companyName" : "Име на фирмата",
-        "companyAddress" : "Адрес на фирмата",
-        "website" : "Уебсайт на фирмата",
-        "accountablePerson" : "МОЛ",
-        "uic" : "ЕИК",
-        "accept" : "Съгласен съм с общите условия"
+    "register": {
+        "doctorInfo": "Информация за лвкар",
+        "name": "Име",
+        "surname": "Презиме",
+        "lastName": "Фамилия",
+        "email": "Имейл",
+        "password": "Парола",
+        "repeatPass": "Повтори парола",
+        "companyInfo": "Информация за фирма",
+        "companyName": "Име на фирмата",
+        "companyAddress": "Адрес на фирмата",
+        "website": "Уебсайт на фирмата",
+        "accountablePerson": "МОЛ",
+        "uic": "ЕИК",
+        "accept": "Съгласен съм с общите условия"
     },
-    "prices" : {
-        "dentalUltimate" : "План Dental Ultimate",
-        "dentalPro" : "План Dental Pro",
-        "youGetThemAll" : "Получавате всичко без ограничение. Подходящ за големи клиники.",
-        "forSmallPractices" : "Подходящ за малки практики с двама или трима лекари.",
-        "299bgn/year" : "299 лв./година",
-        "29BGN/month" : "29.99 лв./месец",
-        "199BGN/year" : "199 лв./година",
-        "19BGN/month" : "19.99 лв./месец"
+    "prices": {
+        "dentalUltimate": "План Dental Ultimate",
+        "dentalPro": "План Dental Pro",
+        "youGetThemAll": "Получавате всичко без ограничение. Подходящ за големи клиники.",
+        "forSmallPractices": "Подходящ за малки практики с двама или трима лекари.",
+        "299bgn/year": "299 лв./година",
+        "29BGN/month": "29.99 лв./месец",
+        "199BGN/year": "199 лв./година",
+        "19BGN/month": "19.99 лв./месец"
     },
     "search": {
         "searchPatient": "Търсене на пациент",
@@ -88,7 +88,12 @@
             "address": "Адрес",
             "phone": "Телефон"
         },
-        "manipulations": {},
+        "manipulations": {
+            "manipulations": "Манипулации",
+            "date": "Дата",
+            "description": "Описание",
+            "doctor": "Доктор"
+        },
         "finances": {
             "finances": "Финанси"
         }
