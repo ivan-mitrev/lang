@@ -91,7 +91,8 @@
             "manipulations": "Manipulations",
             "date": "Date",
             "description": "Description",
-            "doctor": "Doctor"
+            "doctor": "Doctor",
+            "newManipulation": "Add new Manipulation"
         },
         "finances": {
             "finances": "Finances"

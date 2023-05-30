@@ -92,7 +92,8 @@
             "manipulations": "Манипулации",
             "date": "Дата",
             "description": "Описание",
-            "doctor": "Доктор"
+            "doctor": "Доктор",
+            "newManipulation": "Добавяне на нова манипулация"
         },
         "finances": {
             "finances": "Финанси"
