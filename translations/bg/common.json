@@ -32,7 +32,9 @@
         "signUp": "Регистрирай се",
         "message": "Съобщение",
         "edit": "Промени",
-        "subscribe": "Абониране"
+        "subscribe": "Абониране",
+        "reset": "Нулирайте паролата",
+        "forgetPassword": "Забравена парола?"
     },
     "home": {
         "hi": "Здравейте, {{fullName}}"
@@ -44,6 +46,11 @@
         "password": "Парола",
         "DoNotHaveAccount": "Нямате акаунт?",
         "wrongpasswordOrEmail": "Грешна парола или имейл!"
+    },
+    "forgot": {
+        "heder": "Забравена парола?",
+        "email": "Имейл",
+        "disc": "Нулирайте паролата в две бързи стъпки"
     },
     "register": {
         "doctorInfo": "Информация за лвкар",

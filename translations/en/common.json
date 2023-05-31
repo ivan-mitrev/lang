@@ -32,7 +32,9 @@
         "signUp": "Sign Up",
         "message": "Message",
         "edit": "Edit",
-        "subscribe": "Subscribe"
+        "subscribe": "Subscribe",
+        "reset": "Reset password",
+        "forgetPassword": "Forgot password?"
     },
     "home": {
         "hi": "Hello, {{fullName}}"
@@ -44,6 +46,11 @@
         "password": "Password",
         "DoNotHaveAccount": "Don't have an account?",
         "wrongpasswordOrEmail": "Wrong Password or Email!"
+    },
+    "forgot": {
+        "heder": "Forgot password?",
+        "email": "Email",
+        "disc": "Reset password in two quick steps"
     },
     "register": {
         "doctorInfo": "Dentist info",
