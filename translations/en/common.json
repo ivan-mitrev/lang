@@ -34,7 +34,8 @@
         "edit": "Edit",
         "subscribe": "Subscribe",
         "reset": "Reset password",
-        "forgetPassword": "Forgot password?"
+        "forgetPassword": "Forgot password?",
+        "change": "Change"
     },
     "home": {
         "hi": "Hello, {{fullName}}"

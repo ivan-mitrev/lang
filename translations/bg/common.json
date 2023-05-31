@@ -34,7 +34,8 @@
         "edit": "Промени",
         "subscribe": "Абониране",
         "reset": "Нулирайте паролата",
-        "forgetPassword": "Забравена парола?"
+        "forgetPassword": "Забравена парола?",
+        "change": "Промяна"
     },
     "home": {
         "hi": "Здравейте, {{fullName}}"
