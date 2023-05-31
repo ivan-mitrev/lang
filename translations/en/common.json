@@ -57,7 +57,8 @@
         "heder": "Reset password?",
         "disc": "Enter a new password.",
         "password": "Password",
-        "passwordSecond": "Confirm password"
+        "passwordSecond": "Confirm password",
+        "successMessage": "You have successfully changed your password!"
     },
     "register": {
         "doctorInfo": "Dentist info",
