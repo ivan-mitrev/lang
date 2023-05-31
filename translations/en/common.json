@@ -50,7 +50,13 @@
     "forgot": {
         "heder": "Forgot password?",
         "email": "Email",
-        "disc": "Reset password in two quick steps"
+        "disc": "Reset password in two quick steps."
+    },
+    "reset": {
+        "heder": "Reset password?",
+        "disc": "Enter a new password.",
+        "password": "Password",
+        "passwordSecond": "Confirm password"
     },
     "register": {
         "doctorInfo": "Dentist info",
