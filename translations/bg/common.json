@@ -19,7 +19,8 @@
         "invoices": "Фактури",
         "photos": "Снимки",
         "calendar": "Календар",
-        "documents": "Документи"
+        "documents": "Документи",
+        "history": "История"
     },
     "button": {
         "back": "Назад",

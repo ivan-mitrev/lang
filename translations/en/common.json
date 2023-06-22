@@ -19,7 +19,8 @@
         "invoices": "Invoices",
         "photos": "Photos",
         "calendar": "Calendar",
-        "documents": "Documents"
+        "documents": "Documents",
+        "history": "History"
     },
     "button": {
         "back": "Back",
