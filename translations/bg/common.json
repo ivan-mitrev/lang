@@ -1,149 +1,149 @@
 {
-    "mainMenu": {
-        "home": "Начало",
-        "search": "Търсене",
-        "newPatient": "Нов пациент",
-        "calendar": "Календар",
-        "invoices": "Фактури",
-        "services": "Услуги"
+  "mainMenu": {
+    "home": "Начало",
+    "search": "Търсене",
+    "newPatient": "Нов пациент",
+    "calendar": "Календар",
+    "invoices": "Фактури",
+    "services": "Услуги"
+  },
+  "dropDownMenu": {
+    "profile": "Профил",
+    "settings": "Настройки",
+    "logout": "Излизане"
+  },
+  "secondMenu": {
+    "patient": "Пациент",
+    "manipulations": "Манипулации",
+    "finances": "Финанси",
+    "invoices": "Фактури",
+    "photos": "Снимки",
+    "calendar": "Календар",
+    "documents": "Документи",
+    "history": "История"
+  },
+  "button": {
+    "back": "Назад",
+    "save": "Запази",
+    "close": "Затвори",
+    "delete": "Изтрий",
+    "upload": "Качване",
+    "registration": "Регистрация",
+    "login": "Вписване",
+    "signUp": "Регистрирай се",
+    "message": "Съобщение",
+    "edit": "Промени",
+    "subscribe": "Абониране",
+    "reset": "Нулирайте паролата",
+    "forgetPassword": "Забравена парола?",
+    "change": "Промяна"
+  },
+  "home": {
+    "hi": "Здравейте, {{fullName}}"
+  },
+  "login": {
+    "signIn": "Впиши се",
+    "disc": "Моля, въведете своя имейл и парола!",
+    "email": "Имейл адрес",
+    "password": "Парола",
+    "DoNotHaveAccount": "Нямате акаунт?",
+    "wrongpasswordOrEmail": "Грешна парола или имейл!"
+  },
+  "forgot": {
+    "heder": "Забравена парола?",
+    "email": "Имейл",
+    "disc": "Нулирайте паролата в две бързи стъпки."
+  },
+  "reset": {
+    "heder": "Нулиране на парола?",
+    "disc": "Въведете нова парола.",
+    "password": "Парола",
+    "passwordSecond": "Потвърдете паролата",
+    "successMessage": "Вие успешно сменихте паролата си!"
+  },
+  "register": {
+    "doctorInfo": "Информация за лвкар",
+    "name": "Име",
+    "surname": "Презиме",
+    "lastName": "Фамилия",
+    "email": "Имейл",
+    "password": "Парола",
+    "repeatPass": "Повтори парола",
+    "companyInfo": "Информация за фирма",
+    "companyName": "Име на фирмата",
+    "companyAddress": "Адрес на фирмата",
+    "website": "Уебсайт на фирмата",
+    "accountablePerson": "МОЛ",
+    "uic": "ЕИК",
+    "accept": "Съгласен съм с общите условия"
+  },
+  "new-patient": {
+    "firstName": "Име",
+    "middleName": "Презиме",
+    "lastName": "Фамилия",
+    "iD": "ЕГН",
+    "email": "Имейл адрес",
+    "phone": "Телефон",
+    "city": "Град",
+    "street": "улица",
+    "patientstatus": "Пациентът не е Български гражданин",
+    "basicInfo": "Основна информация",
+    "healthStatus": "Здравен статус",
+    "allergies": "Алергии",
+    "diseases": "Заболявания",
+    "medication": "Медикаменти",
+    "cardiovascular": "Сърдечносъдови заболявания",
+    "highBloodPressure": "Високо кръвно налягане",
+    "heartValve": "Сърдечна клапа",
+    "artificialJoint": "Изкуствена става",
+    "stand": "Стенд",
+    "hospitalized": "Хоспитализации",
+    "surgeries": "Операции",
+    "liverDisease": "Чернодробни заболявания",
+    "hepatitis": "Хепатит",
+    "kidneyDisease": "Бъбречни заболявания",
+    "diabetes": "Диабет",
+    "DoYouSmoke": "Пушите ли",
+    "lastTimeDentist": "Последно посещение при зъболекар",
+    "pregnancy": "Бременност",
+    "breastfeeding": "Кърмене"
+  },
+  "prices": {
+    "dentalUltimate": "План Dental Ultimate",
+    "dentalPro": "План Dental Pro",
+    "youGetThemAll": "Получавате всичко без ограничение. Подходящ за големи клиники.",
+    "forSmallPractices": "Подходящ за малки практики с двама или трима лекари.",
+    "299bgn/year": "299 лв./година",
+    "29BGN/month": "29.99 лв./месец",
+    "199BGN/year": "199 лв./година",
+    "19BGN/month": "19.99 лв./месец"
+  },
+  "search": {
+    "searchPatient": "Търсене на пациент",
+    "searchParam": "Име, фамилия или ЕГН на пациент",
+    "egn": "ЕГН",
+    "fname": "Име",
+    "lname": "Фамилия"
+  },
+  "profile": {
+    "info": {
+      "toothStatus": "Зъбен статус",
+      "fullName": "Име",
+      "email": "Имейл",
+      "regDate": "Дата на регистрация",
+      "saveToothStatus": "Успешно запазен зъбен статус.",
+      "address": "Адрес",
+      "phone": "Телефон"
     },
-    "dropDownMenu": {
-        "profile": "Профил",
-        "settings": "Настройки",
-        "logout": "Излизане"
+    "manipulations": {
+      "manipulations": "Манипулации",
+      "date": "Дата",
+      "description": "Описание",
+      "doctor": "Доктор",
+      "newManipulation": "Добавяне на нова манипулация"
     },
-    "secondMenu": {
-        "patient": "Пациент",
-        "manipulations": "Манипулации",
-        "finances": "Финанси",
-        "invoices": "Фактури",
-        "photos": "Снимки",
-        "calendar": "Календар",
-        "documents": "Документи",
-        "history": "История"
-    },
-    "button": {
-        "back": "Назад",
-        "save": "Запази",
-        "close": "Затвори",
-        "delete": "Изтрий",
-        "upload": "Качване",
-        "registration": "Регистрация",
-        "login": "Вписване",
-        "signUp": "Регистрирай се",
-        "message": "Съобщение",
-        "edit": "Промени",
-        "subscribe": "Абониране",
-        "reset": "Нулирайте паролата",
-        "forgetPassword": "Забравена парола?",
-        "change": "Промяна"
-    },
-    "home": {
-        "hi": "Здравейте, {{fullName}}"
-    },
-    "login": {
-        "signIn": "Впиши се",
-        "disc": "Моля, въведете своя имейл и парола!",
-        "email": "Имейл адрес",
-        "password": "Парола",
-        "DoNotHaveAccount": "Нямате акаунт?",
-        "wrongpasswordOrEmail": "Грешна парола или имейл!"
-    },
-    "forgot": {
-        "heder": "Забравена парола?",
-        "email": "Имейл",
-        "disc": "Нулирайте паролата в две бързи стъпки."
-    },
-    "reset": {
-        "heder": "Нулиране на парола?",
-        "disc": "Въведете нова парола.",
-        "password": "Парола",
-        "passwordSecond": "Потвърдете паролата",
-        "successMessage": "Вие успешно сменихте паролата си!"
-    },
-    "register": {
-        "doctorInfo": "Информация за лвкар",
-        "name": "Име",
-        "surname": "Презиме",
-        "lastName": "Фамилия",
-        "email": "Имейл",
-        "password": "Парола",
-        "repeatPass": "Повтори парола",
-        "companyInfo": "Информация за фирма",
-        "companyName": "Име на фирмата",
-        "companyAddress": "Адрес на фирмата",
-        "website": "Уебсайт на фирмата",
-        "accountablePerson": "МОЛ",
-        "uic": "ЕИК",
-        "accept": "Съгласен съм с общите условия"
-    },
-    "new-patient": {
-        "firstName": "Име",
-        "middleName": "Презиме",
-        "lastName": "Фамилия",
-        "iD": "ЕГН",
-        "email": "Имейл адрес",
-        "phone": "Телефон",
-        "city": "Град",
-        "street": "улица",
-        "patientstatus": "Пациентът не е Български гражданин",
-        "basicInfo": "Основна информация",
-        "healthStatus": "Здравен статус",
-        "allergies": "Алергии",
-        "diseases": "Заболявания",
-        "medication": "Медикаменти",
-        "cardiovascular": "Сърдечносъдови заболявания",
-        "highBloodPressure": "Високо кръвно налягане",
-        "heartValve": "Сърдечна клапа",
-        "artificialJoint": "Изкуствена става",
-        "stand": "Стенд",
-        "hospitalized": "Хоспитализации",
-        "surgeries": "Операции",
-        "liverDisease": "Чернодробни заболявания",
-        "hepatitis": "Хепатит",
-        "kidneyDisease": "Бъбречни заболявания",
-        "diabetes": "Диабет",
-        "doYouSmoke": "Пушите ли",
-        "lastTimeDentist": "Последно посещение при зъболекар",
-        "pregnancy": "Бременност",
-        "breastfeeding": "Кърмене"
-    },
-    "prices": {
-        "dentalUltimate": "План Dental Ultimate",
-        "dentalPro": "План Dental Pro",
-        "youGetThemAll": "Получавате всичко без ограничение. Подходящ за големи клиники.",
-        "forSmallPractices": "Подходящ за малки практики с двама или трима лекари.",
-        "299bgn/year": "299 лв./година",
-        "29BGN/month": "29.99 лв./месец",
-        "199BGN/year": "199 лв./година",
-        "19BGN/month": "19.99 лв./месец"
-    },
-    "search": {
-        "searchPatient": "Търсене на пациент",
-        "searchParam": "Име, фамилия или ЕГН на пациент",
-        "egn": "ЕГН",
-        "fname": "Име",
-        "lname": "Фамилия"
-    },
-    "profile": {
-        "info": {
-            "toothStatus": "Зъбен статус",
-            "fullName": "Име",
-            "email": "Имейл",
-            "regDate": "Дата на регистрация",
-            "saveToothStatus": "Успешно запазен зъбен статус.",
-            "address": "Адрес",
-            "phone": "Телефон"
-        },
-        "manipulations": {
-            "manipulations": "Манипулации",
-            "date": "Дата",
-            "description": "Описание",
-            "doctor": "Доктор",
-            "newManipulation": "Добавяне на нова манипулация"
-        },
-        "finances": {
-            "finances": "Финанси"
-        }
+    "finances": {
+      "finances": "Финанси"
     }
+  }
 }
